@@ -2,3 +2,6 @@ links for Troubleshooting
 
 docker api exposed for jenkins slave to use remote docker host
 https://devopscube.com/docker-containers-as-build-slaves-jenkins/
+ 
+ kubernetes operators setup bitnami
+ https://docs.bitnami.com/kubernetes/get-started-kubernetes/#k8_tutorial_step1
