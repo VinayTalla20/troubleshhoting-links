@@ -10,3 +10,6 @@ https://devopscube.com/docker-containers-as-build-slaves-jenkins/
  apt-get install sshpass -y 
  Add IP of client ansible_python_interpreter=/usr/bin/python3  at /etc/ansibel/hosts file
  https://www.tecmint.com/fix-shared-connection-to-x-x-xx-closed-ansible-error/
+ 
+ To add SUDO password of client machines
+ https://www.shellhacks.com/ansible-sudo-a-password-is-required/
