@@ -5,3 +5,6 @@ https://devopscube.com/docker-containers-as-build-slaves-jenkins/
  
  kubernetes operators setup  using helm bitnami
  https://docs.bitnami.com/kubernetes/get-started-kubernetes/#k8_tutorial_step1
+ 
+ ansible ssh error to client machines and lack in python dependencies in remote machine
+ https://www.tecmint.com/fix-shared-connection-to-x-x-xx-closed-ansible-error/
