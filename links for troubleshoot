@@ -7,4 +7,6 @@ https://devopscube.com/docker-containers-as-build-slaves-jenkins/
  https://docs.bitnami.com/kubernetes/get-started-kubernetes/#k8_tutorial_step1
  
  ansible ssh error to client machines and lack in python dependencies in remote machine
+ apt-get install sshpass -y 
+ Add IP of client ansible_python_interpreter=/usr/bin/python3  at /etc/ansibel/hosts file
  https://www.tecmint.com/fix-shared-connection-to-x-x-xx-closed-ansible-error/
