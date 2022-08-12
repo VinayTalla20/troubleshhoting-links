@@ -13,3 +13,8 @@ https://devopscube.com/docker-containers-as-build-slaves-jenkins/
  
  To add SUDO password of client machines
  https://www.shellhacks.com/ansible-sudo-a-password-is-required/
+ 
+ 
+ How to Fix “Username is not in the sudoers file. This incident will be reported” in Ubuntu
+ 
+ https://www.tecmint.com/fix-user-is-not-in-the-sudoers-file-the-incident-will-be-reported-ubuntu/
