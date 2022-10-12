@@ -19,6 +19,14 @@ https://devopscube.com/docker-containers-as-build-slaves-jenkins/
  
  https://www.tecmint.com/fix-user-is-not-in-the-sudoers-file-the-incident-will-be-reported-ubuntu/
  
+ KUbernertes 1.24 API-SERVER POD exited error connection refused
+
+At master Node:
+
+containerd config default | tee /etc/containerd/config.toml
+sed -i 's/SystemdCgroup = false/SystemdCgroup = true/g' /etc/containerd/config.toml  
+service containerd restart
+service kubelet restart
  
  
  unable to open Xdisplay 
